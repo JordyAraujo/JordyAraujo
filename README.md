@@ -24,25 +24,13 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase
-
 <hr>
-<br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordyAraujo&show_icons=true)](https://github.com/JordyAraujo)
-
+[![Jordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordyAraujo&show_icons=true)](https://github.com/JordyAraujo)
 <br/>
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyAraujo&show_icons=true)
-
-<br>
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
 <a href="https://jordyaraujo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-gray?style=flat&logo=appveyor"></a>
 <a href="https://www.linkedin.com/in/jordyaraujo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin"></a>
 <a href="mailto:jordyaraujo@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-gray?style=flat&logo=microsoft-outlook"></a>
-
-<hr>
