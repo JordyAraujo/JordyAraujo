@@ -11,15 +11,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | PostgreSQL
+- 💻 &nbsp; Java | C++ | C | JavaScript | PHP | PostgreSQL | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TailWindCSS | Bootstrap
+- 🌐 &nbsp; HTML | CSS | jQuery | TailWindCSS | Bootstrap
 
 - 🛢 &nbsp; MySQL | PostgreSQL
 
 - 🔧 &nbsp; Git | Markdown
 
-- 🖥 &nbsp; Photoshop | Fusion 360
+- 🖥 &nbsp; Photoshop | Solidworks | Simplify3D
 
 <h3>🛠 To Learn</h3>
 
