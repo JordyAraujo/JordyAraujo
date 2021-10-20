@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | JavaScript | PHP | PostgreSQL | MySQL
+- 💻 &nbsp; PHP | C++ | C | JavaScript | Python
 
-- 🌐 &nbsp; HTML | CSS | jQuery | TailWindCSS | Bootstrap
+- 🌐 &nbsp; HTML | CSS | jQuery | axios | TailWindCSS | Bootstrap
 
 - 🛢 &nbsp; MySQL | PostgreSQL
 
@@ -23,7 +23,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase
+- 🔧 &nbsp; AWS | Docker🐳 | Heroku
 <hr>
 
 [![Jordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordyAraujo&show_icons=true)](https://github.com/JordyAraujo)
