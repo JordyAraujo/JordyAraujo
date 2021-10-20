@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Information Technology at Federal University of Rio Grande do Norte, Brazil and coding stuffs.
+- 🎓 &nbsp; Studying Information Technology at Federal University of Rio Grande do Norte, Brazil and coding stuff.
 
 - 🌱 &nbsp; Learning about Systems Design and Software Engineering.
 
