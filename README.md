@@ -28,6 +28,9 @@
 [![Jordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordyAraujo&count_private=true&show_icons=true&theme=react)](https://github.com/JordyAraujo)
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JordyAraujo&theme=react)](https://git.io/streak-stats)
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyAraujo&show_icons=true&layout=compact&langs_count=8&theme=react)
 <h2> 🤝 Connect with Me </h2>
 <a href="https://jordyaraujo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-gray?style=flat&logo=appveyor"></a>
