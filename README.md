@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Studying Information Technology at Federal University of Rio Grande do Norte, Brazil and coding stuff.
 
-- 🌱 &nbsp; Learning about Systems Design and Software Engineering.
+- 🌱 &nbsp; Learning about System Designs and Software Engineering.
 
 - ✍️ &nbsp; Pursuing IoT Development as hobbies/side hustles.
 
@@ -13,17 +13,19 @@
 
 - 💻 &nbsp; Python | JavaScript | C++ | C | PHP
 
-- 🌐 &nbsp; HTML | CSS | jQuery | axios | TailWindCSS | Bootstrap
+- 🌐 &nbsp; Flask | Django | React Native | jQuery | axios | TailWindCSS | Bootstrap | Oracle APEX
 
 - 🛢 &nbsp; Oracle PL/SQL | MySQL | PostgreSQL
 
 - 🔧 &nbsp; Git | Markdown
 
-- 🖥 &nbsp; Photoshop | Solidworks | Simplify3D
+- 🖥 &nbsp; Solidworks | Simplify3D
 
 <h2>👨‍🎓 Studying</h2>
 
-- 🔧 &nbsp; Flask | Docker 🐳 | Django
+- 🔧 &nbsp; TDD | Django | Flask | Docker 🐳
+
+<h2></h2>
 
 [![Jordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordyAraujo&count_private=true&show_icons=true&theme=react)](https://github.com/JordyAraujo)
 <br/>
